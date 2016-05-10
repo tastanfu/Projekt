@@ -45,3 +45,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+target/classes/Furkan/main.class
+target/classes/META-INF/maven/Furkan/Projekt/pom.properties
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+*.lst
+target/Projekt-1.0-SNAPSHOT.jar
+*.txt
+target/surefire-reports/TEST-Furkan.AppTest.xml
+*.class
+tastatur/.classpath
+*.properties
+target/classes/META-INF/maven/Furkan/Projekt/pom.xml
+*.MF
+/target/
